@@ -1,0 +1,96 @@
+* {
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+}
+
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  border-radius: 0.3rem;
+  text-align: center;
+}
+.jumbotron i {
+  font-size: 2.5em;
+  padding: 8px;
+}
+.jumbotron a {
+  color: inherit;
+}
+
+#menu {
+  text-align: center;
+  margin-bottom: 50px;
+  color: white;
+  font-family: comic;
+  font-size: 1.5em;
+}
+#menu i {
+  font-size: 1.5em;
+  color: #e9ecef;
+}
+#menu p {
+  font-size: 14px;
+  color: #e9ecef;
+}
+#menu a {
+  color: #fff;
+}
+
+.menu-title {
+  margin: 70px 0 50px 0;
+  font-size: 36px;
+}
+
+#my-4 {
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+  border: 0;
+  border-top: 5px solid rgba(0, 0, 0, 0.4);
+}
+
+#menu-itens p {
+  font-size: 18px;
+}
+#menu-itens h3 {
+  text-align: center;
+  margin-top: 60px;
+  font-family: comic;
+}
+#menu-itens img {
+  border-radius: 10%;
+  margin-top: 40px;
+}
+
+#menu-futuro {
+  text-align: center;
+  margin: 10px;
+}
+#menu-futuro h4 {
+  text-align: center;
+  margin: 40px;
+  font-size: 28px;
+  font-family: comic sans-serif;
+}
+#menu-futuro i {
+  font-size: 2.5em;
+}
+
+#futuro {
+  background-color: #e9ecef;
+  margin: 0px;
+}
+#futuro h4 {
+  font-size: 34px;
+}
+#formulario-itens {
+  color: white;
+}
+#formulario-itens1 {
+  color: rgb(116, 105, 105);
+}
+.inner {
+  text-align: center; 
+  margin-top: 15px;
+  color: #b85;
+}
